@@ -1,0 +1,12 @@
+{
+  "name": "honiedo",
+  "displayName": "honiedo",
+  "expo": {
+    "name": "honiedo",
+    "slug": "honiedo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
